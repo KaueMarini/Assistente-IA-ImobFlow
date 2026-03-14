@@ -2,7 +2,7 @@
 
 > Arquitetura de hiperautomação construída no **n8n** para atuar como um funil autônomo de vendas, atendimento multimodal e qualificação inteligente de leads imobiliários.
 
-![Arquitetura do Fluxo n8n](./arquitetura-n8n.jfif)
+![Arquitetura do Fluxo n8n](./arquitetura-n8n.jpg)
 *Visão geral da arquitetura de orquestração no n8n. O sistema é dividido entre o fluxo principal de roteamento cognitivo (acima) e os sub-agentes/microserviços especializados (abaixo).*
 
 ## 🚀 Visão Geral e Funcionalidades
